@@ -20,3 +20,4 @@ tmp
 
 app/assets/**/*.handlebars
 .sass-cache
+.idea
